@@ -4,7 +4,7 @@ import random
 print("  _    _          _   _  _____   __  __          _   _ ")
 print(" | |  | |   /\   | \ | |/ ____| |  \/  |   /\   | \ | |")
 print(" | |__| |  /  \  |  \| | |  __  | \  / |  /  \  |  \| |")
-print(" |  __  | / /\ \ | . ` | | |_ | | |\/| | / /\ \ | . ` |")
+print(" |  __  | / /\ \ | . ` | | |_ | |\/| | / /\ \ | . ` |")
 print(" | |  | |/ ____ \| |\  | |__| | | |  | |/ ____ \| |\  |")
 print(" |_|  |_/_/    \_\_| \_|\_____| |_|  |_/_/    \_\_| \_|")
 print("Taylor Farley, Kathryn Zavadil, Myles Crockem, Colby DuHamel")
@@ -250,3 +250,4 @@ while(pressedExit == False):
   bloop = input("press any key to exit")
   if(len(bloop) > -1):
     pressedExit = True
+
